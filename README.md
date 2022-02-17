@@ -33,7 +33,7 @@ Note: My local server was http://localhost:8000 You may change the settings as p
 
 ### **Note: You will receive JSON responses to every API request**
 
-1. You are a new user so visit `/api/register` to register first. Fields required for this request are `email` & `password` ( Pls note your password will be encrypted so kindly memorize it )
+1. You are a new user so visit `/api/register` to register first. Fields required for this request are `name`,`email` & `password` ( password will be encrypted so kindly memorize it )
 
     Expected Response: `{"status":"success","heading":"User created!","message":"Pleae login to continue."}`
 
