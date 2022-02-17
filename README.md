@@ -33,6 +33,8 @@ Note: My local server was http://localhost:8000 You may change the settings as p
 4. http://localhost:8000/api/loan/approve ( Post Login )
 5. http://localhost:8000/api/loan/emi/pay ( Post Login )
 
+**Note: If you want to import all the API in postman then you can find the file in `Postman` folder and import it.**
+
 ### **Application Flow**
 
 ### **Note: You will receive JSON responses to every API request**
