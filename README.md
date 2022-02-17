@@ -4,6 +4,10 @@
 
 This app is a API app that will give you access to a loan approval and payment .
 
+### ** Installation**
+1. Run `composer install`
+
+
 ### **Database setup**
 
 Please open your localhost phpmyadmin / adminer etc.
